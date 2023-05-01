@@ -20,3 +20,4 @@
    s=`expr $p \* $t \* $r / 100`
    echo "The simple interest is: 
    hey there
+hey whats sup
